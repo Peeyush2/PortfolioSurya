@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1282" height="695" viewBox="0 0 1282 695">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2b8dff"/>
+      <stop offset="1" stop-color="#164780"/>
+    </linearGradient>
+  </defs>
+  <g id="goonj" transform="translate(-19659 -6021)">
+    <g id="Group_2262" data-name="Group 2262" transform="translate(19659 6021)">
+      <g id="Group_2241" data-name="Group 2241">
+        <path id="pexels-rashika-singhal-4400641" d="M0,0H1282V695H0Z" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_2263" data-name="Group 2263" transform="translate(20320.58 6145)">
+      <g id="Ellipse_352" data-name="Ellipse 352" transform="translate(0.42 212) rotate(-90)" fill="none" stroke="#96c7ff" stroke-width="10">
+        <circle cx="106" cy="106" r="106" stroke="none"/>
+        <circle cx="106" cy="106" r="101" fill="none"/>
+      </g>
+      <g id="Ellipse_353" data-name="Ellipse 353" transform="translate(128.42 141) rotate(-90)" fill="none" stroke="#96c7ff" stroke-width="10">
+        <circle cx="35" cy="35" r="35" stroke="none"/>
+        <circle cx="35" cy="35" r="30" fill="none"/>
+      </g>
+      <g id="Ellipse_354" data-name="Ellipse 354" transform="translate(114.42 155) rotate(-90)" fill="none" stroke="#96c7ff" stroke-width="1">
+        <circle cx="49" cy="49" r="49" stroke="none"/>
+        <circle cx="49" cy="49" r="48.5" fill="none"/>
+      </g>
+      <g id="Ellipse_358" data-name="Ellipse 358" transform="translate(110.42 159) rotate(-90)" fill="none" stroke="#96c7ff" stroke-width="1">
+        <circle cx="53" cy="53" r="53" stroke="none"/>
+        <circle cx="53" cy="53" r="52.5" fill="none"/>
+      </g>
+      <g id="Ellipse_359" data-name="Ellipse 359" transform="translate(106.42 163) rotate(-90)" fill="none" stroke="#96c7ff" stroke-width="1">
+        <circle cx="57" cy="57" r="57" stroke="none"/>
+        <circle cx="57" cy="57" r="56.5" fill="none"/>
+      </g>
+      <g id="Ellipse_360" data-name="Ellipse 360" transform="translate(102.42 167) rotate(-90)" fill="none" stroke="#96c7ff" stroke-width="1">
+        <circle cx="61" cy="61" r="61" stroke="none"/>
+        <circle cx="61" cy="61" r="60.5" fill="none"/>
+      </g>
+      <g id="Ellipse_355" data-name="Ellipse 355" transform="translate(119.42 150) rotate(-90)" fill="none" stroke="#96c7ff" stroke-width="1">
+        <circle cx="44" cy="44" r="44" stroke="none"/>
+        <circle cx="44" cy="44" r="43.5" fill="none"/>
+      </g>
+      <g id="Ellipse_356" data-name="Ellipse 356" transform="translate(123.42 146) rotate(-90)" fill="none" stroke="#96c7ff" stroke-width="1">
+        <circle cx="40" cy="40" r="40" stroke="none"/>
+        <circle cx="40" cy="40" r="39.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_2264" data-name="Group 2264" transform="translate(20425.625 6477.475) rotate(150)">
+      <g id="Ellipse_352-2" data-name="Ellipse 352" transform="translate(0 212) rotate(-90)" fill="none" stroke="#fff" stroke-width="10">
+        <circle cx="106" cy="106" r="106" stroke="none"/>
+        <circle cx="106" cy="106" r="101" fill="none"/>
+      </g>
+      <g id="Ellipse_353-2" data-name="Ellipse 353" transform="translate(128 141) rotate(-90)" fill="none" stroke="#fff" stroke-width="10">
+        <circle cx="35" cy="35" r="35" stroke="none"/>
+        <circle cx="35" cy="35" r="30" fill="none"/>
+      </g>
+      <g id="Ellipse_354-2" data-name="Ellipse 354" transform="translate(114 155) rotate(-90)" fill="none" stroke="#fff" stroke-width="1">
+        <circle cx="49" cy="49" r="49" stroke="none"/>
+        <circle cx="49" cy="49" r="48.5" fill="none"/>
+      </g>
+      <g id="Ellipse_358-2" data-name="Ellipse 358" transform="translate(110 159) rotate(-90)" fill="none" stroke="#fff" stroke-width="1">
+        <circle cx="53" cy="53" r="53" stroke="none"/>
+        <circle cx="53" cy="53" r="52.5" fill="none"/>
+      </g>
+      <g id="Ellipse_359-2" data-name="Ellipse 359" transform="translate(106 163) rotate(-90)" fill="none" stroke="#fff" stroke-width="1">
+        <circle cx="57" cy="57" r="57" stroke="none"/>
+        <circle cx="57" cy="57" r="56.5" fill="none"/>
+      </g>
+      <g id="Ellipse_360-2" data-name="Ellipse 360" transform="translate(102 167) rotate(-90)" fill="none" stroke="#fff" stroke-width="1">
+        <circle cx="61" cy="61" r="61" stroke="none"/>
+        <circle cx="61" cy="61" r="60.5" fill="none"/>
+      </g>
+      <g id="Ellipse_355-2" data-name="Ellipse 355" transform="translate(119 150) rotate(-90)" fill="none" stroke="#fff" stroke-width="1">
+        <circle cx="44" cy="44" r="44" stroke="none"/>
+        <circle cx="44" cy="44" r="43.5" fill="none"/>
+      </g>
+      <g id="Ellipse_356-2" data-name="Ellipse 356" transform="translate(123 146) rotate(-90)" fill="none" stroke="#fff" stroke-width="1">
+        <circle cx="40" cy="40" r="40" stroke="none"/>
+        <circle cx="40" cy="40" r="39.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

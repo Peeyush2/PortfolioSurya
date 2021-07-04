@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1282" height="695" viewBox="0 0 1282 695">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0072a5"/>
+      <stop offset="1" stop-color="#003953"/>
+    </linearGradient>
+  </defs>
+  <g id="bhook" transform="translate(-14156 -7491)">
+    <g id="Group_2241" data-name="Group 2241" transform="translate(14156 7491)">
+      <path id="pexels-rashika-singhal-4400641" d="M0,0H1282V695H0Z" fill="url(#linear-gradient)"/>
+      <path id="Icon_awesome-bookmark" data-name="Icon awesome-bookmark" d="M0,291.073V27.288A27.288,27.288,0,0,1,27.288,0H191.016A27.288,27.288,0,0,1,218.3,27.288V291.073L109.152,227.4Z" transform="translate(533.018 137.91)" fill="#fff"/>
+      <path id="Icon_ionic-md-book" data-name="Icon ionic-md-book" d="M100.371,93.311,55.2,84.818,10.032,93.311C4.246,94.213,0,88.826,0,83.332V18.445c0-5.494,4.246-8.652,10.032-9.979L55.2,0l45.169,8.492c5.785,1.327,10.032,4.485,10.032,9.979V83.332C110.4,88.826,106.156,94.213,100.371,93.311Zm0-74.84L60.244,9.979V74.866l40.127,8.492ZM50.159,9.979,10.032,18.471V83.332L50.159,74.84Z" transform="translate(696.034 534.665) rotate(180)" fill="#fff"/>
+      <line id="Line_27" data-name="Line 27" y2="581.308" transform="translate(639.899 21.5)" fill="none" stroke="#fff" stroke-width="1" stroke-dasharray="7"/>
+    </g>
+  </g>
+</svg>

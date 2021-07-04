@@ -1,0 +1,33 @@
+.InputField-container{
+    
+}
+.input-autoFoucs{
+  
+}
+.InputField-input{
+    font-size: 250%;
+    max-width: 100%;
+    font-family: poppinsExtraLight;
+    background-color: black;
+    border: none;
+    color: white;
+    caret-color: #fd6c21;
+    -webkit-appearance:none;
+    -moz-appearance:none;
+    appearance:none;
+}
+.InputField-container{
+    width: 95%;
+}
+.InputField-input::placeholder {
+    color: #bababa;
+    opacity: 1;
+  }
+.InputField-input:focus::placeholder { 
+    color: #fd6c21;
+    opacity: 1;
+  }
+.InputField-input:focus{
+    outline: none;
+    color:#fd6c21 ;
+}

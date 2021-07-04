@@ -1,0 +1,133 @@
+@font-face {
+    font-family: poppinsExtraLight;
+    src: url(../Poppins-ExtraLight.ttf); 
+  }
+  @font-face {
+    font-family: luxia400;
+    src: url(../Luxia400); 
+  }
+  @font-face{
+      font-family: luxiaRegular;
+      src: url(../LuxiaRegular.otf);
+  }
+  @font-face{
+    font-family: poppinsRegular;
+    src: url(../Poppins-Regular.ttf);
+}
+@font-face{
+    font-family: poppinsLight;
+    src: url(../Poppins-Light.ttf);
+}
+.front-body{
+    display: flex;
+    color:white;
+    margin-left: 5%;
+
+}
+.front-body-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 15%;
+}
+.font-body-heading1{
+    font-family: luxiaRegular;
+    letter-spacing: 2px;
+    font-size: 600%;
+    color: #fd6c21;
+}
+
+.font-body-heading2 h1{
+    font-family: poppinsExtraLight;
+}
+.lampClass{
+    overflow: hidden;
+    right: 0;
+    width: 50%;
+    top: 0;
+    position: absolute;
+}
+.font-body-heading1 h1{
+    
+}
+ .shape {
+     margin-top: auto;
+     margin-left: auto;
+     border-bottom:2px solid #fd6c21 ;
+     border-left:2px solid #fd6c21 ;
+     height: 200px;
+     width: 30%;
+     transform: skewY(20deg);
+     transform-origin: 200%;
+     position: relative;
+  }
+.circle{
+    position: absolute;
+    left:-26px;
+    top: -50px;
+    border-radius: 100px;
+    height:50px;
+    width:50px;
+    background:#fd6c21;
+    transform:skewY(-20deg);
+}
+.frontPageHr{
+    display: none;
+}
+.connectButton{
+    display: none;
+}
+@media (max-width:767px){
+    .blur2{
+        background-image: linear-gradient(45deg, black, transparent);
+        backdrop-filter: blur(27px); 
+    }
+    .front-body-div{
+        background-image: url(../piche\ ka\ circle.svg);
+        background-position: top;
+        background-repeat: no-repeat;
+        width: 100%;
+    }
+    .lampClass{
+        display: none;
+    }
+    .front-body{
+        margin-right: 5%;
+        justify-items: center;
+    }
+    .font-body-heading1{
+        text-align: center;   
+        font-size: 547%;     
+    }
+    .font-body-heading1 h1{
+        margin-top: 0px;
+        margin-bottom: 15px;
+    }
+    .font-body-heading2{
+        text-align: center;
+    }
+    .connectButton{
+        margin-top: 16%;
+        display: block;
+        color: wheat;
+        width: 100%;
+        display: flex;
+        font-family: poppinsLight;
+        justify-content: center;
+    }
+    .connectButton a{
+        color: wheat;
+        text-decoration: none;
+    }
+    .connectButton div{
+        border: #fd6c21 solid;
+        border-radius:5%;
+        padding: 5%;
+        font-size: 17%;
+    }
+    .frontPageHr{
+        display: block;
+        margin: 25px 0 5px 0;
+    }
+}
+

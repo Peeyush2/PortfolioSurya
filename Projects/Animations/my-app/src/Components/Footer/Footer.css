@@ -1,0 +1,48 @@
+.anythingButFooter{
+    /* background-image: url('./sherman-yang-VBBGigIuaDY-unsplash (1).jpg'); */
+    
+}
+.footer-blurClass{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6));
+    backdrop-filter: blur(0.5px); 
+}
+.footer-bgimg{
+    background-image: url('./sherman-yang-VBBGigIuaDY-unsplash (1).jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    font-family: 'poppinsLight';
+    
+}
+.anybFoot-1{
+    text-align: center;
+    min-height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 800;
+    font-size: 264%;
+}
+.anybFoot-2{
+    min-height: 40vh;
+    text-align: center;
+    position: relative;
+}
+.Credits{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+@media (max-width:767px){
+    .footer-bgimg{
+        background-size: cover;
+    }
+    .anybFoot-1{
+        font-size: 426%;
+    }
+}

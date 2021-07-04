@@ -1,0 +1,75 @@
+.cardWall{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6));
+    backdrop-filter: blur(0.5px); 
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-container1{
+    position: relative;
+    flex: 3;
+
+}
+.card-Heading{
+    padding-left: 5%;
+    /* position: absolute; */
+    bottom: 0;
+    font-size: 200%;
+    left: 0;
+    width: fit-content;
+    font-family: poppinsLight;
+}
+.card-imageContainer{
+    height: 100%;
+}
+.card-container{
+    color:white;
+    width: 50%;
+    height: 92%;
+    object-fit: cover;
+    display: flex;
+    flex-direction: column;
+    background: #5f5e5e36;
+    backdrop-filter: blur(68px);
+    
+}
+.card-container1 img{
+    height: 100%;
+    width: 100%;
+
+}
+.card-container2{
+    padding: 5%;
+    padding-top: 2.5%;
+    font-family: poppinsLight;
+}
+.card-container3{
+    cursor: pointer;
+    width: 100%;
+    text-align: center;
+    
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'poppinsLight';
+    height: 10%;
+    
+}
+@media (max-width:767px){
+    .card{
+        width: 90%;
+        padding:0% 5%;
+        height: 100vh;
+    }
+    .card-container{
+        width: 100%;
+    }
+}

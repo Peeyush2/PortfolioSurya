@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="582" height="785" viewBox="0 0 582 785">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_208" data-name="Rectangle 208" width="582" height="634" transform="translate(17643 6020)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_2270" data-name="Group 2270" transform="translate(-17643 -6020)">
+    <g id="Group_2246" data-name="Group 2246" transform="translate(3487 -1471)">
+      <g id="Group_2241" data-name="Group 2241" transform="translate(5072 422)">
+        <path id="pexels-rashika-singhal-4400641" d="M0,0H582V634H0Z" transform="translate(9084 7069)" fill="#710931"/>
+        <rect id="Rectangle_48" data-name="Rectangle 48" width="582" height="151" transform="translate(9084 7703)" fill="#fff"/>
+        <text id="Tata_Trusts" data-name="Tata Trusts" transform="translate(9114 7774)" fill="#987a7a" font-size="53" font-family="Luxia-Regular, Luxia"><tspan x="0" y="0">Tata Trusts</tspan></text>
+        <text id="Center_for_oncopathology" data-name="Center for oncopathology" transform="translate(9114 7819)" fill="#a2a2a2" font-size="30" font-family="Luxia-Regular, Luxia"><tspan x="0" y="0">Center for oncopathology</tspan></text>
+      </g>
+    </g>
+    <g id="Mask_Group_1509" data-name="Mask Group 1509" clip-path="url(#clip-path)">
+      <g id="Group_2268" data-name="Group 2268">
+        <g id="Ellipse_363" data-name="Ellipse 363" transform="translate(17452 5852)" fill="none" stroke="#e52854" stroke-width="48">
+          <circle cx="225" cy="225" r="225" stroke="none"/>
+          <circle cx="225" cy="225" r="201" fill="none"/>
+        </g>
+        <g id="Ellipse_364" data-name="Ellipse 364" transform="translate(17376 5795)" fill="none" stroke="#e52854" stroke-width="48">
+          <circle cx="225" cy="225" r="225" stroke="none"/>
+          <circle cx="225" cy="225" r="201" fill="none"/>
+        </g>
+        <g id="Ellipse_365" data-name="Ellipse 365" transform="translate(17297 5743)" fill="none" stroke="#e52854" stroke-width="48">
+          <circle cx="225" cy="225" r="225" stroke="none"/>
+          <circle cx="225" cy="225" r="201" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_2269" data-name="Group 2269" transform="translate(727 352)">
+        <g id="Ellipse_363-2" data-name="Ellipse 363" transform="translate(17452 5852)" fill="none" stroke="#981635" stroke-width="48">
+          <circle cx="225" cy="225" r="225" stroke="none"/>
+          <circle cx="225" cy="225" r="201" fill="none"/>
+        </g>
+        <g id="Ellipse_364-2" data-name="Ellipse 364" transform="translate(17376 5795)" fill="none" stroke="#981635" stroke-width="48">
+          <circle cx="225" cy="225" r="225" stroke="none"/>
+          <circle cx="225" cy="225" r="201" fill="none"/>
+        </g>
+        <g id="Ellipse_365-2" data-name="Ellipse 365" transform="translate(17297 5743)" fill="none" stroke="#981635" stroke-width="48">
+          <circle cx="225" cy="225" r="225" stroke="none"/>
+          <circle cx="225" cy="225" r="201" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Ellipse_362" data-name="Ellipse 362" transform="translate(17851 6219)" fill="none" stroke="#c91c45" stroke-width="24">
+      <circle cx="83" cy="83" r="83" stroke="none"/>
+      <circle cx="83" cy="83" r="71" fill="none"/>
+    </g>
+    <path id="Path_2430" data-name="Path 2430" d="M16134.69,7646.522l-33.715,78.978s-215.755-251.93-193.425-307.476c8.275-20.586,37.418-35.6,37.418-35.6s-15.692,16.384,0,45c12.351,22.519,51.3,51.542,86.793,96.813C16111.514,7625.964,16134.69,7646.522,16134.69,7646.522Z" transform="translate(1945.56 -1120)" fill="#c91c45"/>
+    <path id="Path_2431" data-name="Path 2431" d="M15905.93,7646.522l33.715,78.978s215.755-251.93,193.425-307.476c-8.275-20.586-37.418-35.6-37.418-35.6s12.487,13.461,0,37.389c-11.775,22.564-47.714,54.574-86.793,104.423C15929.105,7625.964,15905.93,7646.522,15905.93,7646.522Z" transform="translate(1882 -1120)" fill="#e52854" stroke="#e52854" stroke-width="1"/>
+  </g>
+</svg>

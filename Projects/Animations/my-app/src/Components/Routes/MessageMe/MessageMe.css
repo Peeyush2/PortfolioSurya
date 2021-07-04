@@ -1,0 +1,105 @@
+.MessageMeApp{
+    font-family: luxia;
+    background:black;
+    flex-direction: column;
+    display:flex;
+    height:100%;
+    width:100%;
+}
+.MessageMe{
+    
+    min-height: 100vh;
+    margin-left: 5%;
+    display: flex;
+    flex-direction: row;
+}
+.MessageMe-Heading{
+    padding-top: 10%;
+    color: white;
+    flex: 1;
+}
+.MessageMe{
+    display: flex;
+}
+.MessageMe-container1{
+    flex: 1;
+}
+.MessageMe-container2{
+    
+}
+.MessageMe-Heading2{
+    font-size: 400%;
+    text-align: right;
+    margin-bottom: 20px;
+}
+.MessageMe-Heading3{
+    border-top: #fd6c21 7px inset;
+}
+.MessageMe-container{
+    flex: 3;
+    display: flex;
+    align-items: center;
+    margin-left:10% ;
+}
+.MessageMe-Submit{
+    color: wheat;
+    font-family: poppinsExtraLight;
+    font-size: 180%;
+    cursor: pointer;
+    width: fit-content;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.MessageMeThankYou{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    text-align: center;
+    height: 90vh;
+    justify-content: center;
+    align-items: center;
+}
+.thankImg{
+    max-width: 100%;
+    max-height: 100%;
+    
+
+}
+.shareme{
+
+}
+.shareme:hover{
+    cursor: pointer;
+}
+.MessageMe-Form{
+}
+@media (max-width:767px){
+    .MessageMe-Submit{
+        text-align: center;
+    }
+    .MessageMe{
+        flex-direction: column;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    .MessageMe-Heading2{
+        text-align: center;
+        font-size: 400%;
+    }
+    .MessageMe-container{
+        margin-top: 10%;
+        margin-left: 0%;
+        
+    }
+    .MessageMe-container2{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    .InputField-container{
+        width: 100%;
+    }
+    .InputField-input{
+        font-size:250%;
+    }
+}

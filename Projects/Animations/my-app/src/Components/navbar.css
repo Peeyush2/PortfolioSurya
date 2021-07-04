@@ -1,0 +1,204 @@
+@font-face {
+    font-family: poppinsExtraLight;
+    src: url(../Poppins-ExtraLight.ttf); 
+  }
+.navbarEx-aa{
+    color: white;
+    text-decoration: none;
+}
+.navbarEx-a{
+width: 90%;
+text-align: center;
+font-size: 331%;
+margin: 5px 0px;
+}
+.navbar2{
+    font-family: poppinsExtraLight;
+    position: relative;
+    z-index: 2;
+    margin-top: 25px;   
+    color: white;
+    background-color: transparent;
+    display: flex;
+}
+.navbar-list{
+    display: flex;
+    list-style: none;
+    width: fit-content;
+}
+.navbar-extended{
+    display: none;
+}
+.navbar-li{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navbar-list .navbar-li{
+    padding: 0px 5px 0px 5px;
+    
+}
+.navbar-list .navbar-li:hover{
+    
+}
+.navbar-list2 .navbar-li a{
+    text-decoration: none;
+    color: white;
+}
+.navbar-list2 .navbar-li a:hover{
+    cursor: pointer;
+}
+.navbar-list2 .navbar-li{
+    padding: 0px 25px 0px 25px;
+    
+}
+.navbar-list2 .navbar-li:hover{
+    cursor: pointer;
+}
+.navbar-list{
+    float: left;
+    margin-left: 5%;
+    font-size: 20px;
+}
+.navbar-list2{
+    float: right;
+    display: flex;
+    list-style: none;
+    margin-right: 5%;
+    margin-left: auto;
+    order: 2;
+    font-size: 20px;
+}
+.navbar-logo{
+    float: left;
+}
+.navbar-extra{
+    border-color: #fd6c21;
+    border-style: inset;
+    padding: 0 18px;
+}
+.navbar-menu{
+    display: flex;
+    float: right;
+    font-size: medium;
+    font-weight: bold;
+}
+@media (min-width:767px){
+    .compressed-navbar-menu{
+        display: none;
+    }
+}
+@media (max-width:767px){
+    .blur3{
+        background-image:radial-gradient(circle, #71300e 1%, black);
+        backdrop-filter: blur(27px); 
+    }
+    .navbar2{
+        margin-bottom: 5%;
+    }
+    .navbar-list svg{
+        max-width: 80%;
+        max-height: 100%;
+    }
+    .navbar-logo a{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .navbar-extended{
+        border-bottom: gray 0.5px inset;
+        padding-bottom: 7%;
+        margin-bottom: 7%;
+        color: white;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        font-family: poppinsExtraLight;
+        animation-duration: 200s;
+        animation-name:increaseHeight;
+        max-height: 100%;
+    }
+    @keyframes increaseHeight {
+        from{
+            max-height: 0px;
+        }
+        to{
+            min-height: 100%;
+        }
+    }
+
+    .navbar-extended div{
+        padding: 5px;
+    }
+    .navbar-menu{
+        display: none;
+    }
+    .compressed-navbar-menu{
+        float: right;
+        display: flex;
+        list-style: none;
+        justify-content: center;
+        align-items: center;
+        margin-right: 5%;
+        margin-left: auto;
+        order: 2;
+    }
+    .compressed-navbar-menu .dontmakeCross #Line_4{
+        transform: translate(402.5px,37.5px) rotate(0.0turn);
+        animation-duration: 1s;
+        animation-name: slideinOpp;
+    }
+    @keyframes slideinOpp {
+        from{
+            transform: translate(402.5px,37.5px) rotate(0.1turn);
+            stroke: #fd6c21;
+        }
+        to{
+            transform: translate(402.5px,37.5px) rotate(0.0turn);
+        }
+    }
+    .compressed-navbar-menu .dontmakeCross #Line_5{
+        transform: translate(402.5px, 49.5px) rotate(0.0turn);
+        animation-duration: 1s;
+        animation-name: slidein2Opp;
+    }
+    @keyframes slidein2Opp{
+        from{
+            transform: translate(402.5px, 49.5px) rotate(-0.1turn);
+            stroke: #fd6c21; 
+        }
+        to{
+            transform: translate(402.5px, 49.5px) rotate(0.0turn);
+        }
+    }
+    .compressed-navbar-menu .makeCross #Line_4{
+        transform: translate(402.5px,37.5px) rotate(0.1turn);
+        stroke: #fd6c21;
+        animation-duration: 1s;
+        animation-name: slidein;
+    }
+    @keyframes slidein {
+        from{
+            transform: translate(402.5px,37.5px) rotate(0.0turn);
+        }
+        to{
+            transform: translate(402.5px,37.5px) rotate(0.1turn);
+            stroke: #fd6c21;
+        }
+    }
+    .compressed-navbar-menu .makeCross #Line_5{
+        transform: translate(402.5px, 49.5px) rotate(-0.1turn);
+        stroke: #fd6c21;
+        animation-duration: 1s;
+        animation-name: slidein2;
+    }
+    @keyframes slidein2 {
+        from{
+            transform: translate(402.5px, 49.5px) rotate(0.0turn);
+        }
+        to{
+            transform: translate(402.5px, 49.5px) rotate(-0.1turn);
+            stroke: #fd6c21;
+        }
+    }
+}
